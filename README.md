@@ -1,5 +1,5 @@
 <p align="center"> 
-<a href="#"><img width="60%" height="50%" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b761126d53fe8cf8a8d846c106a04b74df11c91e0a7a3&rid=giphy.gif&ct=g" height="175px"/></a>
+<a href="#"><img width="45%" height="10%" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611253ac4ca2b22fdf82f7346d261df3f89132eb309&rid=giphy.gif&ct=g" /></a>
 </p>    
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Surendra</h1>
