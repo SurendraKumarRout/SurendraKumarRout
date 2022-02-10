@@ -1,4 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<p align="center"> 
+<a href="#"><img width="60%" height="50%" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b761126d53fe8cf8a8d846c106a04b74df11c91e0a7a3&rid=giphy.gif&ct=g" height="175px"/></a>
+</p>    
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Surendra</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
