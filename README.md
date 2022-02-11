@@ -3,7 +3,7 @@
 </p>    
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Surendra</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India. Self-motivated and flexible, with a keen interest to learn and adopt new technologies. </h3>
+<h3 align="center">I'm a passionate Full Stack Developer from India. <br/>Self-motivated and flexible, with a keen interest to learn and adopt new technologies. </h3>
 
 
 ## 🙋‍♂️ About Me
@@ -64,7 +64,7 @@
 <!-- <a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/external-justicon-flat-justicon/50/000000/external-gmail-social-media-justicon-flat-justicon.png" height="40"/></a> -->
 <a href = "https://www.linkedin.com/in/surendrakumarrout/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/_thenameis_adi/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.instagram.com/_thenameis_adi/"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>        
+<a href = "mailto: surendra.igit@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>        
 
 </p>
 
