@@ -3,20 +3,20 @@
 </p>    
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Surendra</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h3 align="center">I'm a passionate Full Stack Developer from India. Self-motivated and flexible, with a keen interest to learn and adopt new technologies. </h3>
 
 
 ## 🙋‍♂️ About Me
+
+- 👯 I’m a student of **Masai School**
 
 - 🌱 I’m currently learning **REACT.**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
-- 📫 How to reach me **surendra.igit@gmail.com**
 
 <!-- - ⚡ Fun fact **I play games and go to the GYM very often.** -->
 
