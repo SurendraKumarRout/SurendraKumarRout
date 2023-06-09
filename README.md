@@ -3,7 +3,7 @@
 </p>    
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Surendra</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India. <br/>Self-motivated and flexible, with a keen interest to learn and adopt new technologies. </h3>
+<h3 align="center">I'm a passionate DevOps Engineer from India. <br/> I have over 1 years of experience in working Cloud Technologies and various devops tools. <br/>Self-motivated and flexible, with a keen interest to learn and adopt new technologies. </h3>
 
 
 ## 🙋‍♂️ About Me
