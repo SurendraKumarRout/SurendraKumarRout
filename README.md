@@ -8,17 +8,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 👯 I’m a student of **Masai School**
+- 👯 I’m currently working in **GlobalLogic** as a **Associate Software Engineer**
 
-- 🌱 I’m currently learning **REACT.**
+- 🌱 I also have hands-on experience in **Full Stack Web Development** in **MERN** 
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently seeking new opportunities for **Growth and Success**
 
+- 👨‍💻 All of my devlopment projects are available at **[My Portfolio](https://surendra-kumar-rout-portfolio.netlify.app/)** 
 
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
-
-
-<!-- - ⚡ Fun fact **I play games and go to the GYM very often.** -->
+⚡ Fun fact **I play games and love to travel and explore new things** -->
 
 ## 🚀 Languages and Tools:
 
