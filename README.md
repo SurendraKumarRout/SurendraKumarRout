@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 👯 I’m currently working in **GlobalLogic** as a **Associate Software Engineer**
+- 👯 I’m currently working in **GlobalLogic** as an **Associate Software Engineer**
 
 - 🌱 I also have hands-on experience in **Full Stack Web Development** in **MERN** 
 
@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my devlopment projects are available at **[My Portfolio](https://surendra-kumar-rout-portfolio.netlify.app/)** 
 
-⚡ Fun fact **I play games and love to travel and explore new things** -->
+⚡ Fun fact **I play games and love to travel and explore new things**
 
 ## 🚀 Languages and Tools:
 
